@@ -18,7 +18,7 @@ def seslendir(class_name):
 
 
 # Opencv DNN
-net = cv2.dnn.readNet("dnn_model/yolov4-obj_last.weights", "dnn_model/yolov4-obj.cfg")
+net = cv2.dnn.readNet("dnn_model/yolov3_custom_last.weights", "dnn_model/yolov3_custom.cfg")
 model = cv2.dnn_DetectionModel(net)
 model.setInputParams(size=(320, 320), scale=1/255)
 
