@@ -1,5 +1,5 @@
 # YOLOv3 ile Nesne Tanıma
-YOLOv3 modeli ile Google Colaboratary üzerinden H harfinin tespiti için eğitim gerçekleştirilmiştir. Fotoğraf üzerindeki sonuçları aşağıda mevcuttur.
+YOLOv3 modeli ile Google Colaboratory üzerinden H harfinin tespiti için eğitim gerçekleştirilmiştir. Fotoğraf üzerindeki sonuçları aşağıda mevcuttur.
 
 ![predictions](https://github.com/sevvalkapcak/YOLOv3-ile-Nesne-Tanima/assets/73191933/b4fde7cd-d74f-44cc-8f55-a7d5f9546cad)
 
